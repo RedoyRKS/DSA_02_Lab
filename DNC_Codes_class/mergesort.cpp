@@ -32,7 +32,7 @@ void merge(int A[], int start, int mid, int end)
 
     for (int k = start; k <= end; k++)
     {
-        if (L[i] <= R[j])
+        if (L[i] <= R[j]) //
         {
             A[k] = L[i];
             i++;
