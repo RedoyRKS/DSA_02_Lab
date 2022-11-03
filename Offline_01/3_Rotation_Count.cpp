@@ -9,7 +9,7 @@ int CountRotation( int arr[],int pointer, int left, int right)
     }
     
     
-    int mid = (left+ right)/2;  //find mid
+    int mid = (left+ right)/2;  //find mid.
 
     if (arr[mid]==pointer){
         return mid;
