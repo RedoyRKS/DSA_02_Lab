@@ -1,0 +1,8 @@
+what is difference between divide and conquer approach and greedy approach?
+which problem will you try to solve using greedy and which using divide-and-conquer?
+https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+https://cse.iitk.ac.in/users/aca/lop13/slides/02.pdf 
+
+What's the best way to tell which strategy (greedy, divide and conquer, dynamic programming) would work best for a particular algorithm problem?
+- https://qr.ae/pNLVAA 
+https://cseweb.ucsd.edu/classes/fa18/cse101-b/lec11.pdf 
